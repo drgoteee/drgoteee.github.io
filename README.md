@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/license-MIT-2ea043?style=flat-square" alt="license"/>
 </p>
 
-An interactive, in-browser, full-lifecycle **OSCP+ operator checklist** — 1,229 items across every phase, plus 109 machine writeups with attack chains and takeaways. Open it, work top-to-bottom, tick items as you clear them, and your progress persists across refreshes.
+An interactive, in-browser, full-lifecycle **OSCP+ operator checklist** — 1,230 items across every phase, plus 109 machine writeups with attack chains and takeaways. Open it, work top-to-bottom, tick items as you clear them, and your progress persists across refreshes.
 
 ## Live
 
